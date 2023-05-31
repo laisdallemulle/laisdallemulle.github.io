@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "CTIC"
-description: "A&A"
+title: "About"
+description: "Laís Dalle Mulle"
 header-img: "img/capaextra.jpg"
 ---
 
