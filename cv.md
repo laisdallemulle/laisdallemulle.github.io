@@ -1,88 +1,185 @@
 ---
 layout: page
-title: "Grupo"
-description: "A&A"
+title: "Curriculum"
+description: "Laís Dalle Mulle"
 header-img: "img/capaextra.jpg"
 ---
 
-
-Nossos Amigos
+My CV
 ----------------
 
-<p>&nbsp;</p>
 
-<div class="how-section1">
-    <div class="row">
-        <div class="col-md-3 how-img">
-            <img src="https://artigos-e-amigos.github.io/img/dani.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-            <a href="https://www.linkedin.com/in/daniella-vasconcellos/" target="_blank"><h4>Daniella Martins Vasconcellos</h4></a>
-                        <h5 class="subheading">FullStack developer | Vue | React | Django | Python | JavaScript | Data Researcher</h5>
-        <p class="text-muted">Estudante de Cientista da Computação pela UDESC - CCT. Desenvolvedora Fullstack com habilidades em Python, React e Vue. Voluntária de Iniciação Científica pela orientação da Professora Doutora Isabela Gasparini. Área de interesse em Análise de Dados e Interação Humano-Computador.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 how-img">
-                <img src="https://artigos-e-amigos.github.io/img/carlos.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-                <a href="https://www.linkedin.com/in/carlos-bunn-470bb6250/" target="_blank"><h4>Carlos Daniel Schmitt Bunn</h4></a>
-                        <h5 class="subheading">Programação criativa | Arte gerativa</h5>
-                        <p class="text-muted">Estudante de Ciência da Computação na UDESC e bolsista PIBIC/CNPq no GPIE - Grupo de Pesquisa em Informática na Educação. Atualmente, está envolvido em pesquisas sobre diversidade, gênero e evasão de estudantes universitários.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 how-img">
-            <img src="https://artigos-e-amigos.github.io/img/eric.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-            <a href="https://www.linkedin.com/in/eric-carvalho-da-silveira-190ab8221/" target="_blank"><h4>Eric Carvalho da Silveira</h4></a>
-                        <h5 class="subheading">Data Science | Web Developer</h5>
-        <p class="text-muted">Estudante de Ciência da Computação UDESC - Joinville do sétimo semestre. Além disso, é bolsista PIBIC/CNPq no GPIE - Grupo de Pesquisa em Informática na Educação. Iniciou sua trajetória acadêmica como Técnico de Informática no IFSC - Caçador, consolidando seu interesse pela área de tecnologia. Atualmente, está envolvido em pesquisas sobre diversidade, gênero e evasão de estudantes universitários.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 how-img">
-                <img src="https://artigos-e-amigos.github.io/img/guilherme.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-            <a href="https://www.linkedin.com/in/guilherme-tomaselli-borchardt/" target="_blank"><h4>Guilherme Tomaselli Borchardt</h4></a>
-                        <h5 class="subheading">Data Science | Developer</h5>
-                        <p class="text-muted">Estudante das fases finais do curso de Bacharelado em Ciência da Computação da Universidade do Estado de Santa Catarina (CCT). Durante a caminhada acadêmica, teve a oportunidade de estudar e aprender diversos tópicos importantes da área da computação, como banco de dados, programação orientada a objeto, engenharia de software, interação humano computador, desenvolvimento web e entre outros. </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 how-img">
-                <img src="https://artigos-e-amigos.github.io/img/isabela.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-            <a href="https://www.linkedin.com/in/isabela-gasparini-89605b15/" target="_blank"><h4>Isabela Gasparini</h4></a>
-                        <h5 class="subheading">Professora</h5>
-                        <p class="text-muted">Professora Associado na UDESC. Coordenador do Programa de Pós-Graduação em Computação Aplicada - Departamento de Ciência da Computação. Professora do Programa de Pós-Graduação em Ensino de Matemática, Ciências e Tecnologias. Interesses em: IHC, Adaptabilidade e Modelagem do Usuário, Sistemas de Recomendação, questões culturais, consciência contextual, gamificação, análise de dados, ciência de dados, tecnologia para aprimoramento do aprendizado, usabilidade.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 how-img">
-                <img src="https://artigos-e-amigos.github.io/img/laisCircular.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-            <a href="http://linkedin.com/in/lais-vossen" target="_blank"><h4>Laís Pisetta Van Vossen</h4></a>
-                        <h5 class="subheading">Research Software Engineer | Data Scientist</h5>
-                        <p class="text-muted">Estudante de Ciências da Computação, com paixão por aprender coisas novas. Participou ativamente em diversas maratonas de programação competitiva, que a ajudaram a desenvolver habilidades como trabalho em equipe e resolução de problemas usando lógica e programação. Hoje, é voluntária em um projeto de iniciação científica, realizando pesquisas para construção de questionários e mapeamento de artigos, onde pude me aprimorar com análise de dados, pesquisa, comunicação e colaboração.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 how-img">
-                <img src="https://artigos-e-amigos.github.io/img/maria.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
-        </div>
-        <div class="col-md-9">
-            <a href="https://www.linkedin.com/in/mariaaseret/" target="_blank"><h4>Maria Teresa Silva Santos</h4></a>
-                        <h5 class="subheading">Engenheira de Computação | Data Scientist</h5>
-                        <p class="text-muted">Engenheira de Computação pela Universidade Federal de Santa Catarina, especialista e pós graduada em análise de dados. Também possui conhecimento técnico na área de programação pelo SENAI. Com experiência profissional em diversas áreas de conhecimento em empresas de pequeno porte, médio porte e também multinacional, tendo como enfoque banco de dados e análise de dados. Atualmente trabalha como pesquisadora de mestrado em Computação Aplicada na Universidade do Estado de Santa Catarina. </p>
-        </div>
-    </div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
+    h3 {
+      font-size: 16px;
+      margin-bottom: 5px;
+    }
+    ul {
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    a {
+      color: #0066cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>CV</h1>
+
+  <h2>OBJECTIVE</h2>
+  <p>Job opportunity where I can develop my skills, contributing to the growth of the company.</p>
+
+  <h2>EDUCATION</h2>
+  <ul>
+    <li>
+      <h3>Master's Degree | Federal University of Santa Catarina, UFSC, Brazil</h3>
+      <p>2020 – Present</p>
+      <p>PPGEEL – Graduate Program in Electrical Engineering</p>
+      <ul>
+        <li>Master's degree in power systems with research focused on the estimation of electrical grid states. Trying to understand how the network is operating. The data used comes from the SCADA system and phasor measurement units (PMUs)</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Post-Graduation | UNIMAIS - Educamais College</h3>
+      <p>2020 – 2021</p>
+      <p>Occupational Safety Engineering</p>
+    </li>
+    <li>
+      <h3>Post-Graduation | Descomplica College</h3>
+      <p>2020 – 2021</p>
+      <p>Project Management and Agile Methodologies</p>
+    </li>
+    <li>
+      <h3>Bachelor's Degree | Federal University of Santa Catarina, UFSC, Brazil</h3>
+      <p>2014 – 2019</p>
+      <p>Energy Engineering - Engineering focused on renewable energy generation and sustainability. Its menu includes subjects common to electrical engineering such as circuits, transmission, power electronics, among others.</p>
+    </li>
+  </ul>
+
+  <h2>PV PROJECTS</h2>
+  <p>Link to my personal website with the projects descriptions: <a href="https://laisdallemulle.notion.site/Projects-14f8be1e5df0401cb4275c6b41a90ed9">Projects</a></p>
+  <ul>
+    <li>Dana Jalecos (clothes factory) – 54,45kWp (99 modules of 550Wp)</li>
+    <li>Supermercado Silveira (supermarket) – 68,47kWp (167 modules of 410Wp)</li>
+    <li>Sorveteria (Icecream factory) – 60,04kWp (152 modules of 395Wp)</li>
+    <li>CD Hippo (supermarket distribution center) – 246,4kWp (448 modules of 550Wp)</li>
+    <li>Lamar do Brasil Fruticultura (agribusiness) – 492,8kWp (896 modules of 550Wp)</li>
+    <li>Master Matriz (supermarket distribution center) - 1,1MWp (2014 modules of 550Wp)</li>
+    <li>Hospital IDEAS (Hospital) – 280,5kWp (510 modules of 550Wp)</li>
+    <li>Medical and Dental Clinic - Electrical project for a two-story building.</li>
+  </ul>
+
+  <h2>EXPERIENCE</h2>
+  <ul>
+    <li>
+      <h3>Technical Analyst of Photovoltaic Systems | Pieta.tech</h3>
+      <p>2022-2023</p>
+      <ul>
+        <li>Technical analysis of PV equipment</li>
+        <li>Technical analysis of the PV equipment (verify that the project that was requested is in accordance with the capabilities of the equipment and the customer's energy input standard)</li>
+        <li>Layout of PV projects (cable sizing and protections)</li>
+        <li>Delivery and monitoring of the PV project with the energy distributor</li>
+        <li>Dealings with customers to explain technical issues for adjustments to input standard equipment or circuit breakers</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Energy Engineer | Belver Engenharia</h3>
+      <p>2020-2022</p>
+      <ul>
+        <li>Business dealings with customers</li>
+        <li>3D models of PV projects</li>
+        <li>Design of PV projects</li>
+        <li>Layout of PV projects (cable sizing, protections and quantity of modules and inverter)</li>
+        <li>Delivery and monitoring of the PV project with the energy distributor</li>
+        <li>Negotiations with equipment suppliers</li>
+        <li>Monitoring of works</li>
+        <li>Monitoring of electrical installations for PV projects</li>
+        <li>Installation team management</li>
+        <li>Electrical projects for buildings</li>
+        <li>Dimensioning of outlets, light points, cables and circuit breakers</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Photovoltaic Systems Designer | Prisma Energia Solar e Eficiência Energética</h3>
+      <p>2019-2020</p>
+      <ul>
+        <li>Business dealings with customers</li>
+        <li>3D models of PV projects</li>
+        <li>Design of PV projects</li>
+        <li>Layout of PV projects (cable sizing, protections and quantity of modules and inverter)</li>
+        <li>Delivery and monitoring of the PV project with the energy distributor</li>
+        <li>Negotiations with equipment suppliers</li>
+        <li>Monitoring of works</li>
+        <li>Monitoring of electrical installations for PV projects</li>
+        <li>Performance analysis of photovoltaic systems</li>
+        <li>Installation team management</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2>Extension Schoolarship | Federal University of Santa Catarina, UFSC, Brazil</h2>
+  <p>2016 – 2017</p>
+  <ul>
+    <li>Taught electrical, electronic, and computer classes to students from public schools</li>
+  </ul>
+
+  <h2>ACTIVITIES</h2>
+  <ul>
+    <li>Dimensioning and design of electrical and photovoltaic systems</li>
+    <li>Performance analysis of photovoltaic systems</li>
+    <li>Scientific initiation scholarship of CNPq</li>
+    <li>Member of the Laboratory of Computational Technologies (LabTeC), through the extension project "Meninas Digitais UFSC"</li>
+    <li>Taught electrical, electronic, and computer classes to students from public schools</li>
+    <li>Member of the Technological Nucleus of Electrical Energy (NTEEL)</li>
+  </ul>
+
+  <h2>PROFESSIONAL COURSES</h2>
+  <ul>
+    <li>Photovoltaic solar energy – WEG</li>
+    <li>Power factor correction - WEG</li>
+    <li>Photovoltaic system installations – Sonnen Energia</li>
+  </ul>
+
+  <h2>ADDITIONAL INFORMATION</h2>
+  <ul>
+    <li>Availability to travel for the company</li>
+    <li>LinkedIn Skills Assessments:</li>
+    <ul>
+      <li>AutoCAD</li>
+      <li>Microsoft Excel</li>
+      <li>SketchUp</li>
+      <li>Microsoft PowerBI</li>
+      <li>Microsoft Outlook</li>
+      <li>Agile Methodologies</li>
+    </ul>
+  </ul>
+</body>
+</html>
+
+
+Download my CV
+----------------
+You can download too, [english version](docs/LaisDalleMulle[EN]) or [portuguese version](docs/LaisDalleMulle[PT_BR]).
 
 
 
