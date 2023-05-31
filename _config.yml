@@ -1,12 +1,12 @@
 # Usign the Clean Blog theme
 
-title: Artigos e Amigos
-author: mariaaseret
-email: mariat95@gmail.com
-description: Artigos e Amigos
+title: Laís
+author: laisdallemulle
+email: laisdallemulle@gmail.com
+description: Personal site
 baseurl: ""
-url: "https://artigos-e-amigos.github.io/"
-github_username:  artigos-e-amigos
+url: "https://laisdallemulle.github.io/"
+github_username:  laisdallemulle
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
-name: Artigos e Amigos
+name: laisdallemulle
 gems:
   - jekyll-feed
   - jekyll-paginate
