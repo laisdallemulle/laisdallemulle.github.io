@@ -1,16 +1,19 @@
 ---
 layout: page
-title: "Artigos e Amigos"
-description: "grupo de pesquisa"
+title: "Hello"
+description: "👋👋👋👋"
 header-img: "img/capahome.jpg"
 ---
 
-Este site é um repositório do grupo de iniciação científica da Universidade do Estado de Santa Catarina. 
+<h1>Lais Dalle Mulle</h1>
+<h2>Energy Engineer</h2>
+</div>
 
-O objetivo principal é compartilhar nossos projetos:
-- [Women in Information Technology 2023](../wit/), estudo sobre mulheres e TIC;
-- [Concurso de Trabalhos de Iniciação Científica 2023](../ctic/), Top 3 melhores trabalhos;
-- Os [slides utilizados durante os eventos](../slides) que participamos;
-- Também contém todos nossos [projetos anteriores](../projetos);
-- Bem como um [apresentação de todos nossos pesquisadores](../grupo).
+<div class="container">
+<div class="about-me">
+    <h2>About Me</h2>
+    <p>Hello, I'm Lais Dalle mulle, an energy engineer with expertise in renewable energy generation and sustainability. I have a Master's degree in Electrical Engineering and experience in photovoltaic system design and analysis. I'm passionate about contributing to the growth of companies through the application of my skills and knowledge.</p>
+</div>   
+</div>
 
+[View Full CV](https://laisdallemulle.github.io/cv/)
