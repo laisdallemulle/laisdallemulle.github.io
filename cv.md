@@ -140,7 +140,8 @@ header-img: "img/capaextra.jpg"
 
 Download my CV
 ----------------
-You can download too, [english version](docs/LaisDalleMulleEN.pdf) or [portuguese version](docs/LaisDalleMullePTBR.pdf).
 
+> You can download too, [english version](docs/LaisDalleMulleEN.pdf).
+> [Portuguese version](docs/LaisDalleMullePTBR.pdf).
 
 
