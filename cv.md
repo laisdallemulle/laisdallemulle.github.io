@@ -10,10 +10,9 @@ header-img: "img/capaextra.jpg"
 Job opportunity where I can develop my skills, contributing to the growth of the company.
 
 ### EDUCATION
+---
 
-
-#### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil
-`2020 – Present`
+#### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil `2020 – Present`
 
 PPGEEL – Graduate Program in Electrical Engineering
 
