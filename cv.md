@@ -6,13 +6,14 @@ header-img: "img/capaextra.jpg"
 ---
 
 ### OBJECTIVE
-
+---
 Job opportunity where I can develop my skills, contributing to the growth of the company.
 
 ### EDUCATION
 ---
 
-#### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil `2020 – Present`
+#### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil 
+`2020 – Present`
 
 PPGEEL – Graduate Program in Electrical Engineering
 
@@ -36,8 +37,8 @@ Energy Engineering - Engineering focused on renewable energy generation and sust
 
 
 ### [PV PROJECTS](https://laisdallemulle.notion.site/Projects-14f8be1e5df0401cb4275c6b41a90ed9)
+---
 Click on the project you want to view in full:
-
 - Dana Jalecos (clothes factory) – 54,45kWp (99 modules of 550Wp);
 - Supermercado Silveira (supermarket) – 68,47kWp (167 modules of 410Wp);
 - Sorveteria (Icecream factory) – 60,04kWp (152 modules of 395Wp);
@@ -49,15 +50,15 @@ Click on the project you want to view in full:
 
 
 ### EXPERIENCE
-
+---
 #### Technical Analyst of Photovoltaic Systems | Pieta.tech
 `2022-2023`
 
-Technical analysis of PV equipment; 
-Technical analysis of the PV equipment (verify that the project that was requested is in accordance with the capabilities of the equipment and the customer's energy input standard);
-Layout of PV projects (cable sizing and protections);
-Delivery and monitoring of the PV project with the energy distributor;
-Dealings with customers to explain technical issues for adjustments to input standard equipment or circuit breakers.
+- Technical analysis of PV equipment; 
+- Technical analysis of the PV equipment (verify that the project that was requested is in accordance with the capabilities of the equipment and the customer's energy input standard);
+- Layout of PV projects (cable sizing and protections);
+- Delivery and monitoring of the PV project with the energy distributor;
+- Dealings with customers to explain technical issues for adjustments to input standard equipment or circuit breakers.
 
 
 #### Energy Engineer | Belver Engenharia
@@ -97,7 +98,7 @@ Dealings with customers to explain technical issues for adjustments to input sta
 
 - Taught electrical, electronic, and computer classes to students from public schools;
 
-ACTIVITIES
+##### ACTIVITIES
 - Dimensioning and design of electrical and photovoltaic systems;
 - Performance analysis of photovoltaic systems;
 - Scientific initiation scholarship of CNPq;
@@ -127,7 +128,4 @@ ACTIVITIES
 
 
 ### Download my CV
-> You can download too, [english version](docs/LaisDalleMulleCVEN.pdf).
-> [Portuguese version](docs/LaisDalleMullePTBR.pdf).
-
-
+> You can download it too: [english version](docs/LaisDalleMulleCVEN.pdf) or [Portuguese version](docs/LaisDalleMullePTBR.pdf).
