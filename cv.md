@@ -5,7 +5,7 @@ description: "Laís Dalle Mulle"
 header-img: "img/capaextra.jpg"
 ---
 
-<details>
+<details> oi
 maria teresa 
 
 </details>
@@ -18,24 +18,27 @@ Job opportunity where I can develop my skills, contributing to the growth of the
 EDUCATION
 ----------------
 
- ### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil
+ #### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil
+
 > 2020 – Present
+
 PPGEEL – Graduate Program in Electrical Engineering
 
 Master's degree in power systems with research focused on the estimation of electrical grid states. Trying to understand how the network is operating. The data used comes from the SCADA system and phasor measurement units (PMUs)
 
-### Post-Graduation | UNIMAIS - Educamais College
+#### Post-Graduation | UNIMAIS - Educamais College
+
 > 2020 – 2021
 
  Occupational Safety Engineering
 
 
-### Post-Graduation | Descomplica College
+#### Post-Graduation | Descomplica College
 > 2020 – 2021
 
 Project Management and Agile Methodologies
 
-###  Bachelor's Degree | Federal University of Santa Catarina, UFSC, Brazil</h3>
+####  Bachelor's Degree | Federal University of Santa Catarina, UFSC, Brazil
 > 2014 – 2019 
 
 Energy Engineering - Engineering focused on renewable energy generation and sustainability. Its menu includes subjects common to electrical engineering such as circuits, transmission, power electronics, among others.
@@ -65,7 +68,7 @@ Medical and Dental Clinic - Electrical project for a two-story building.
 EXPERIENCE
 ----------------
 
-### Technical Analyst of Photovoltaic Systems | Pieta.tech
+#### Technical Analyst of Photovoltaic Systems | Pieta.tech
 > 2022-2023
 
 Technical analysis of PV equipment; 
@@ -75,7 +78,7 @@ Delivery and monitoring of the PV project with the energy distributor;
 Dealings with customers to explain technical issues for adjustments to input standard equipment or circuit breakers.
 
 
-### Energy Engineer | Belver Engenharia
+#### Energy Engineer | Belver Engenharia
 > 2020-2023
 
 - Business dealings with customers;
@@ -92,7 +95,7 @@ Dealings with customers to explain technical issues for adjustments to input sta
 
 
 
-### Photovoltaic Systems Designer | Prisma Energia Solar e Eficiência Energética
+#### Photovoltaic Systems Designer | Prisma Energia Solar e Eficiência Energética
 > 2019-2020
 
 - Business dealings with customers;
@@ -107,7 +110,7 @@ Dealings with customers to explain technical issues for adjustments to input sta
 - Installation team management.
 
 
-### Extension Schoolarship | Federal University of Santa Catarina, UFSC, Brazil
+#### Extension Schoolarship | Federal University of Santa Catarina, UFSC, Brazil
 > 2016 – 2017
 
 - Taught electrical, electronic, and computer classes to students from public schools;
@@ -122,14 +125,14 @@ ACTIVITIES
 - Member of the Technological Nucleus of Electrical Energy (NTEEL).
 
 
-### PROFESSIONAL COURSES
+#### PROFESSIONAL COURSES
 
 - Photovoltaic solar energy – WEG;
 - Power factor correction - WEG;
 - Photovoltaic system installations – Sonnen Energia.
 
 
-### ADDITIONAL INFORMATION
+#### ADDITIONAL INFORMATION
 
 - Availability to travel for the company;
 - LinkedIn Skills Assessments:
