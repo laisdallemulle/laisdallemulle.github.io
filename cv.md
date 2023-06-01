@@ -127,7 +127,6 @@ ACTIVITIES
 
 
 ### Download my CV
-
 > You can download too, [english version](docs/LaisDalleMulleCVEN.pdf).
 > [Portuguese version](docs/LaisDalleMullePTBR.pdf).
 
