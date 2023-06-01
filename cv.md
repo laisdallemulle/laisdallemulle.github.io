@@ -108,14 +108,14 @@ Click on the project you want to view in full:
 
 
 ### PROFESSIONAL COURSES
-
+---
 - Photovoltaic solar energy – WEG;
 - Power factor correction - WEG;
 - Photovoltaic system installations – Sonnen Energia.
 
 
 ### ADDITIONAL INFORMATION
-
+---
 - Availability to travel for the company;
 - LinkedIn Skills Assessments:
     - AutoCAD;
@@ -128,4 +128,4 @@ Click on the project you want to view in full:
 
 
 ### Download my CV
-> You can download it too: [english version](docs/LaisDalleMulleCVEN.pdf) or [Portuguese version](docs/LaisDalleMullePTBR.pdf).
+> You can download it too: [english version](docs/LaisDalleMulleCVEN.pdf) or [portuguese version](docs/LaisDalleMullePTBR.pdf).
