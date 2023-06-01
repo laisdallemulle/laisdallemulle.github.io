@@ -39,7 +39,7 @@ Energy Engineering - Engineering focused on renewable energy generation and sust
 ### [PV PROJECTS](https://laisdallemulle.notion.site/Projects-14f8be1e5df0401cb4275c6b41a90ed9)
 ---
 Click on the project you want to view in full:
-- [Dana Jalecos (clothes factory) – 54,45kWp (99 modules of 550Wp)](project1);
+- [Dana Jalecos (clothes factory) – 54,45kWp (99 modules of 550Wp)](https://laisdallemulle.github.io/project1/);
 - Supermercado Silveira (supermarket) – 68,47kWp (167 modules of 410Wp);
 - Sorveteria (Icecream factory) – 60,04kWp (152 modules of 395Wp);
 - CD Hippo (supermarket distribution center) – 246,4kWp (448 modules of 550Wp);
