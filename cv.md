@@ -124,7 +124,7 @@ Click on the project you want to view in full:
     - Microsoft PowerBI;
     - Microsoft Outlook;
     - Agile Methodologies.
-
+ 
 
 
 ### Download my CV
