@@ -19,5 +19,3 @@ header-img: "img/capahome.jpg"
 
 
 [View Full CV](https://laisdallemulle.github.io/cv/)
-
-

@@ -16,10 +16,13 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                      <a href="{{ site.baseurl }}/about">About</a>
-                </li>
-                <li>
                     <a href="{{ site.baseurl }}/projects">Projects</a>
+                    <ul>
+                        <li>
+                            <a href="{{ site.baseurl }}/project1">Project 1</a>
+                        </li>
+                        <!-- Add more submenu items as needed -->
+                    </ul>
                 </li>
                 <li>
                     <a href="{{ site.baseurl }}/cv">CV</a>
@@ -28,7 +31,6 @@
                     <a href="{{ site.baseurl }}/contact">Contact</a>
                 </li>
                 <!--
-
                 {% for page in site.pages %}
                 <li>
                     {% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
@@ -37,6 +39,7 @@
                 -->
             </ul>
         </div>
+        
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
