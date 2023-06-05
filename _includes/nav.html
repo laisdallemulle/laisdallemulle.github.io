@@ -17,12 +17,6 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="{{ site.baseurl }}/projects">Projects</a>
-                    <ul>
-                        <li>
-                            <a href="{{ site.baseurl }}/project1">Project 1</a>
-                        </li>
-                        <!-- Add more submenu items as needed -->
-                    </ul>
                 </li>
                 <li>
                     <a href="{{ site.baseurl }}/cv">CV</a>
@@ -31,6 +25,7 @@
                     <a href="{{ site.baseurl }}/contact">Contact</a>
                 </li>
                 <!--
+
                 {% for page in site.pages %}
                 <li>
                     {% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
@@ -39,8 +34,17 @@
                 -->
             </ul>
         </div>
-        
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Dropdown button
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+    </div>
+  </div>
