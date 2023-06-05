@@ -12,7 +12,7 @@ header-img: "img/capahome.jpg"
 <div class="how-section1">
     <div class="row">
         <div class="col-md-3 how-img">
-            <img src="https://artigos-e-amigos.github.io/img/laissite.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
+            <img src="https://laisdallemulle.github.io/img/laissite.jpg" class="rounded-circle img-fluid" width="100%" alt=""/>
         </div>
         <div class="col-md-9">
             <a href="https://www.linkedin.com/in/laisdallemulle" target="_blank"><h4>Lais Dalle Mulle</h4></a>
