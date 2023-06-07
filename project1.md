@@ -2,7 +2,7 @@
 layout: page
 title: "Project 1"
 description: "Hospital"
-header-img: "img/capaextra.jpg"
+header-img: "img/gradients_3.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)
