@@ -7,7 +7,15 @@ header-img: "img/gradients_10.png"
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)
 
-<h2>Project 1</h2>
+<h2>Project 2</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CEp_C5dlCbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
