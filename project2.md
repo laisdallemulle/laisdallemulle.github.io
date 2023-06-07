@@ -12,7 +12,7 @@ header-img: "img/gradients_10.jpg"
 
 <div class="container">
     <div class="row">
-      <div class="col">
+      <div class="col-md-6">
         <div class="embed-responsive embed-responsive-16by9">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
         </div>
