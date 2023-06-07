@@ -18,4 +18,4 @@ header-img: "img/gradients_10.png"
         </div>
       </div>
     </div>
-  </div>
+</div>
