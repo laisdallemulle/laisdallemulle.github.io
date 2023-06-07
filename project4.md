@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Project 1"
-description: "Hospital"
-header-img: "img/gradients_3.png"
+description: "-"
+header-img: "img/gradient.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)
