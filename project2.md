@@ -12,9 +12,9 @@ header-img: "img/gradients_10.jpg"
 
 <div class="container">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-8">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CEp_C5dlCbg"></iframe>
         </div>
       </div>
     </div>
