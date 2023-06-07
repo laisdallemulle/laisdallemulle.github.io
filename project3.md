@@ -2,7 +2,7 @@
 layout: page
 title: "Project 1"
 description: "-"
-header-img: "img/gradients_11.png"
+header-img: "img/gradients_11.jpg"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)

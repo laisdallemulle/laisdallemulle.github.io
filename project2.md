@@ -2,7 +2,7 @@
 layout: page
 title: "Project 1"
 description: "-"
-header-img: "img/gradients_10.png"
+header-img: "img/gradients_10.jpg"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)
@@ -14,7 +14,7 @@ header-img: "img/gradients_10.png"
     <div class="row">
       <div class="col">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
         </div>
       </div>
     </div>
