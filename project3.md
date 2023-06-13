@@ -10,8 +10,6 @@ header-img: "img/gradient3.png"
 <h2>Project 3</h2>
 ---
 
-
-
 <div class="row">
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal1">Print 1</button>
@@ -25,7 +23,6 @@ header-img: "img/gradient3.png"
   </div>
 
 
-<br>
 
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2">Print 2</button>
@@ -38,7 +35,6 @@ header-img: "img/gradient3.png"
     </div>
   </div>
 
-<br>
 
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal3">Print 3</button>
@@ -51,7 +47,6 @@ header-img: "img/gradient3.png"
     </div>
   </div>
 
-<br>
 
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal4">Print 4</button>

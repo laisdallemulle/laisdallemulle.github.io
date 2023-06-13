@@ -10,23 +10,69 @@ header-img: "img/gradient3.png"
 <h2>Project 8</h2>
 ---
 
-PICS
+
+<div class="row">
+  <div class="col-md-3">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal1">Print 1</button>
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="modal1Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/dentalClinic1.png" class="img-responsive" alt="Modal 1 Image">
+        </div>
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2">Print 2</button>
+    <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="modal2Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/dentalClinic2.png" class="img-responsive" alt="Modal 2 Image">
+        </div>
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal3">Print 3</button>
+    <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="modal3Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/dentalClinic3.png" class="img-responsive" alt="Modal 3 Image">
+        </div>
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal4">Print 4</button>
+    <div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="modal4Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/dentalClinic4.png" class="img-responsive" alt="Modal 4 Image">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<br>
+
 
 
 <h2>Specifications</h2>
 ---
 The project deals with a two-story building, located at Av. Joca brandão, 715, downtown, Itajaí-SC. The building will have as possible use, medical offices, commercial office and/or dental offices. In this way, the electrical project was dimensioned in order to meet the needs for all types of uses.
 
-The project was based on the following standards:
+<details>
+<summary> ▶ The project was based on the following standards:</summary>
+<br>
+<ul>
+<li>ABNT NBR 5410: Low Voltage Electrical Installations, Mar/2008;</li>
+<li>NBR 13534: Electrical Installations in Health Care Establishments;</li>
+<li>ARCHITECTURAL PROGRAMMING OF FUNCTIONAL HEALTH UNITS;</li>
+<li>RESOLUTION-RDC No. 50- ANVISA.</li>
+</ul>
+</details>
 
-- ABNT NBR 5410: Low Voltage Electrical Installations, Mar/2008;
--NBR 13534: Electrical Installations in Health Care Establishments;
-- ARCHITECTURAL PROGRAMMING OF FUNCTIONAL HEALTH UNITS
--RESOLUTION-RDC No. 50- ANVISA
-
+<br>
 
 <details>
-<summary> ▶ Ground floor</summary>
+<summary> ▶ Ground floor:</summary>
 <br> 
 
 <ul>
@@ -75,10 +121,11 @@ The project was based on the following standards:
 
 </details>
 
+<br>
 
 
 <details>
-<summary> ▶ Second floor</summary>
+<summary> ▶ Second floor:</summary>
 <br> 
 <ul>
 <li>Circuit 1<br>
