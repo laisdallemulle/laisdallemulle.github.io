@@ -11,15 +11,15 @@ In this selection, I would like to showcase a range of photovoltaic projects dev
 <summary> ▶ All the PV projects were based on the following standards:</summary>
 <br> 
 
-1. ABNT NBR 16690 Standard: This standard establishes the requirements for the design of photovoltaic systems connected to the electrical grid in Brazil. It addresses aspects such as system sizing, component selection, installation, surge protection, among others.
-   
-2. ABNT NBR 5410 Standard: This standard establishes the rules for low voltage electrical installations, covering aspects such as cable selection and installation, protection devices, grounding and other electrical considerations.
-   
-3. ABNT NBR 15569 Standard: This standard addresses the guidelines for installing photovoltaic panels in buildings. It includes requirements related to mechanical strength, fastening, fire protection, among others.
-   
-4. Standard IEC 62446: This international standard establishes the requirements for carrying out tests, inspections and documentation of photovoltaic systems connected to the grid. It defines procedures for verifying system compliance, including performance measurements, visual inspection, and safety testing.
-   
-5. Electric Utility Regulations: In addition to the regulations mentioned above, it is important to follow the specific guidelines and requirements established by the local electric utility. They may include network connection procedures, installation standards, and documentation requirements.
+
+<ol>
+  <li>ABNT NBR 16690 Standard: This standard establishes the requirements for the design of photovoltaic systems connected to the electrical grid in Brazil. It addresses aspects such as system sizing, component selection, installation, surge protection, among others.</li>
+  <li>ABNT NBR 5410 Standard: This standard establishes the rules for low voltage electrical installations, covering aspects such as cable selection and installation, protection devices, grounding and other electrical considerations.</li>
+  <li>ABNT NBR 15569 Standard: This standard addresses the guidelines for installing photovoltaic panels in buildings. It includes requirements related to mechanical strength, fastening, fire protection, among others.</li>
+  <li>Standard IEC 62446: This international standard establishes the requirements for carrying out tests, inspections and documentation of photovoltaic systems connected to the grid. It defines procedures for verifying system compliance, including performance measurements, visual inspection, and safety testing.</li>
+  <li>Electric Utility Regulations: In addition to the regulations mentioned above, it is important to follow the specific guidelines and requirements established by the local electric utility. They may include network connection procedures, installation standards, and documentation requirements.</li>
+</ol>
+
 
 </details>
 
