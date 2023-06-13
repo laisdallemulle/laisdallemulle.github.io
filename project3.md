@@ -11,65 +11,54 @@ header-img: "img/gradient3.png"
 ---
 
 
-<!-- Modal 1 -->
-<div class="modal fade" id="modal1" tabindex="-1" aria-labelledby="modal1Label" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="modal1Label">Modal 1</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+<div class="row">
+  <div class="col-md-3">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal1">Print 1</button>
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="modal1Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" class="img-fluid" alt="Modal 1 Image">
+        </div>
       </div>
-      <div class="modal-body">
-        <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" alt="Modal 1 Image">
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2">Print 2</button>
+    <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="modal2Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream2.png" class="img-fluid" alt="Modal 2 Image">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal3">Print 3</button>
+    <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="modal3Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream3.png" class="img-fluid" alt="Modal 3 Image">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal4">Print 4</button>
+    <div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="modal4Label" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream4.png" class="img-fluid" alt="Modal 4 Image">
+        </div>
       </div>
     </div>
   </div>
 </div>
 
-<!-- Modal 2 -->
-<div class="modal fade" id="modal2" tabindex="-1" aria-labelledby="modal2Label" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="modal2Label">Modal 2</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <img src="https://laisdallemulle.github.io/img/projetoIcecream2.png" alt="Modal 2 Image">
-      </div>
-    </div>
-  </div>
-</div>
 
-<!-- Modal 3 -->
-<div class="modal fade" id="modal3" tabindex="-1" aria-labelledby="modal3Label" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="modal3Label">Modal 3</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <img src="https://laisdallemulle.github.io/img/projetoIcecream3.png" alt="Modal 3 Image">
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Modal 4 -->
-<div class="modal fade" id="modal4" tabindex="-1" aria-labelledby="modal4Label" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="modal4Label">Modal 4</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <img src="https://laisdallemulle.github.io/img/projetoIcecream4.png" alt="Modal 4 Image">
-      </div>
-    </div>
-  </div>
-</div>
 
 ---
 
