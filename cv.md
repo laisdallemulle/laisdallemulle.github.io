@@ -126,6 +126,5 @@ Click on the project you want to view in full:
     - Agile Methodologies.
  
 
-
 ### Download my CV
 > You can download it too: [english version](docs/LaisDalleMulleCVEN.pdf) or [portuguese version](docs/LaisDalleMullePTBR.pdf).
