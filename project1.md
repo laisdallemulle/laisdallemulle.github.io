@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Project 1"
-description: "Clothes Factory"
-header-img: "img/gradients_3.png"
+title: "Clothes Factory"
+description: "Project 1"
+header-img: "img/gradient3.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)

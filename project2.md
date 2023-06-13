@@ -2,7 +2,7 @@
 layout: page
 title: "Supermarket Silveira"
 description: "Project 2"
-header-img: "img/gradients_3.png"
+header-img: "img/gradient3.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)

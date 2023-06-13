@@ -19,11 +19,19 @@ All the PV projects were based on the following standards:
 
 <a href="https://laisdallemulle.github.io/project1/" target="_blank">Clothes Factory →</a>
 
-[Project 2 → ](https://laisdallemulle.github.io/project2/)
+<a href="https://laisdallemulle.github.io/project2/" target="_blank">Supermarket Silveira →</a>
 
-[Project 3 → ](https://laisdallemulle.github.io/project3/)
+<a href="https://laisdallemulle.github.io/project3/" target="_blank">Icecream factory →</a>
 
-[Project 4 → ](https://laisdallemulle.github.io/project4/)
+<a href="https://laisdallemulle.github.io/project4/" target="_blank">Supermarket Hippo →</a>
 
-[Project 5 → ](https://laisdallemulle.github.io/project5/)
+<a href="https://laisdallemulle.github.io/project5/" target="_blank">Agribusiness →</a>
+
+<a href="https://laisdallemulle.github.io/project6/" target="_blank">Supermarket Master Matriz →</a>
+
+<a href="https://laisdallemulle.github.io/project7/" target="_blank">Hospital IDEAS →</a>
+
+<a href="https://laisdallemulle.github.io/project8/" target="_blank">Dental Clinic →</a>
+
+
 

@@ -2,7 +2,7 @@
 layout: page
 title: "🍦 Icecream factory"
 description: "Project 3"
-header-img: "img/gradients_3.png"
+header-img: "img/gradient3.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)
@@ -10,7 +10,14 @@ header-img: "img/gradients_3.png"
 <h2>Project 3</h2>
 ---
 
-...FOTOS...
+![plot 1](./img/projetoIcecream1.png)
+
+![plot 2](./img/projetoIcecream2.png)
+
+![plot 3](./img/projetoIcecream3.png)
+
+![plot 4](./img/projetoIcecream4.png)
+
 
 <h2>Specifications</h2>
 ---
