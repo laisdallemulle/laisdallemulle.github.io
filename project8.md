@@ -21,6 +21,11 @@ header-img: "img/gradient3.png"
         </div>
       </div>
     </div>
+    
+  </div>
+
+
+  <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2">Print 2</button>
     <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="modal2Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
@@ -29,6 +34,10 @@ header-img: "img/gradient3.png"
         </div>
       </div>
     </div>
+  </div>
+
+
+  <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal3">Print 3</button>
     <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="modal3Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
@@ -37,6 +46,10 @@ header-img: "img/gradient3.png"
         </div>
       </div>
     </div>
+  </div>
+
+
+  <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal4">Print 4</button>
     <div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="modal4Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
@@ -69,7 +82,7 @@ The project deals with a two-story building, located at Av. Joca brandão, 715, 
 </ul>
 </details>
 
-<br>
+
 
 <details>
 <summary> ▶ Ground floor:</summary>
@@ -121,7 +134,6 @@ The project deals with a two-story building, located at Av. Joca brandão, 715, 
 
 </details>
 
-<br>
 
 
 <details>
