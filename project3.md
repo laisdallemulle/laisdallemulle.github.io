@@ -17,7 +17,7 @@ header-img: "img/gradient3.png"
 <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-      <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" alt="Minha Figura">
+      <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" class="img-fluid" alt="Responsive image" alt="Minha Figura">
     </div>
   </div>
 </div>
