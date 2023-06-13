@@ -11,344 +11,178 @@ header-img: "img/capaextra.jpg"
 ---
 
 <style>
+
 body{margin-top:20px;}
-.blog-grid {
+
+.section {
+    padding: 100px 0;
     position: relative;
-    box-shadow: 0 1rem 1.75rem 0 rgba(45, 55, 75, 0.1);
-    height: 100%;
-    border: 0.0625rem solid rgba(220, 224, 229, 0.6);
-    border-radius: 0.25rem;
-    transition: all .2s ease-in-out;
-    height: 100%
+}
+.gray-bg {
+    background-color: #ebf4fa;
+}
+/* Blog 
+---------------------*/
+.blog-grid {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.blog-grid .blog-img {
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.blog-grid .blog-img .date {
+  position: absolute;
+  background: #3a3973;
+  color: #ffffff;
+  padding: 8px 15px;
+  left: 0;
+  top: 10px;
+  font-size: 14px;
+}
+.blog-grid .blog-info {
+  box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+  border-radius: 5px;
+  background: #ffffff;
+  padding: 20px;
+  margin: -30px 20px 0;
+  position: relative;
+}
+.blog-grid .blog-info h5 {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0 0 10px;
+}
+.blog-grid .blog-info h5 a {
+  color: #3a3973;
+}
+.blog-grid .blog-info p {
+  margin: 0;
+}
+.blog-grid .blog-info .btn-bar {
+  margin-top: 20px;
 }
 
-.blog-grid span {
-    color: #292dc2
-}
-
-.blog-grid img {
-    width: 100%;
-    border-top-left-radius: 0.25rem;
-    border-top-right-radius: 0.25rem
-}
-
-.blog-grid-text {
-    position: relative
-}
-
-.blog-grid-text>span {
-    color: #292dc2;
-    font-size: 13px;
-    padding-right: 5px
-}
-
-.blog-grid-text h4 {
-    line-height: normal;
-    margin-bottom: 15px
-}
-
-.blog-grid-text .meta-style2 {
-    border-top: 1px dashed #cee1f8;
-    padding-top: 15px
-}
-
-.blog-grid-text .meta-style2 ul li {
-    margin-bottom: 0;
-    font-weight: 500
-}
-
-.blog-grid-text .meta-style2 ul li:last-child {
-    margin-right: 0
-}
-
-.blog-grid-text ul {
-    margin: 0;
-    padding: 0
-}
-
-.blog-grid-text ul li {
+.px-btn-arrow {
+    padding: 0 50px 0 0;
+    line-height: 20px;
+    position: relative;
     display: inline-block;
-    font-size: 14px;
-    font-weight: 500;
-    margin: 5px 10px 5px 0
+    color: #fe4f6c;
+    -moz-transition: ease all 0.3s;
+    -o-transition: ease all 0.3s;
+    -webkit-transition: ease all 0.3s;
+    transition: ease all 0.3s;
 }
 
-.blog-grid-text ul li:last-child {
-    margin-right: 0
-}
 
-.blog-grid-text ul li i {
-    font-size: 14px;
-    font-weight: 600;
-    margin-right: 5px
-}
-
-.blog-grid-text p {
-    font-weight: 400;
-    padding: 0
-}
-
-.blog-list-left-heading:after,
-.blog-title-box:after {
-    content: '';
-    height: 2px
-}
-
-.blog-grid-simple-content a:hover {
-    color: #1d184a
-}
-
-.blog-grid-simple-content a:hover:after {
-    color: #1d184a
-}
-.blog-grid-text {
-    position: relative
-}
-
-.blog-grid-text>span {
-    color: #292dc2;
-    font-size: 13px;
-    padding-right: 5px
-}
-
-.blog-grid-text h4 {
-    line-height: normal;
-    margin-bottom: 15px
-}
-
-.blog-grid-text .meta-style2 {
-    border-top: 1px dashed #cee1f8 !important;
-    padding-top: 15px
-}
-
-.blog-grid-text .meta-style2 ul li {
-    margin-bottom: 0;
-    font-weight: 500
-}
-
-.blog-grid-text .meta-style2 ul li:last-child {
-    margin-right: 0
-}
-
-.blog-grid-text ul {
-    margin: 0;
-    padding: 0
-}
-
-.blog-grid-text ul li {
+.px-btn-arrow .arrow {
+    width: 13px;
+    height: 2px;
+    background: currentColor;
     display: inline-block;
-    font-size: 14px;
-    font-weight: 500;
-    margin: 5px 10px 5px 0
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    right: 25px;
+    -moz-transition: ease right 0.3s;
+    -o-transition: ease right 0.3s;
+    -webkit-transition: ease right 0.3s;
+    transition: ease right 0.3s;
 }
 
-.blog-grid-text ul li:last-child {
-    margin-right: 0
-}
-
-.blog-grid-text ul li i {
-    font-size: 14px;
-    font-weight: 600;
-    margin-right: 5px
-}
-
-.blog-grid-text p {
-    font-weight: 400;
-    padding: 0
-}
-
-a, a:active, a:focus {
-    color: #575a7b;
-    text-decoration: none;
-    transition-timing-function: ease-in-out;
-    -ms-transition-timing-function: ease-in-out;
-    -moz-transition-timing-function: ease-in-out;
-    -webkit-transition-timing-function: ease-in-out;
-    -o-transition-timing-function: ease-in-out;
-    transition-duration: .2s;
-    -ms-transition-duration: .2s;
-    -moz-transition-duration: .2s;
-    -webkit-transition-duration: .2s;
-    -o-transition-duration: .2s;
-}
-
-.pagination {
-    border-radius: 0;
-    padding: 0;
-    margin: 0
-}
-
-.pagination ul {
+.px-btn-arrow .arrow:after {
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid currentColor;
+    border-top: 2px solid currentColor;
+    content: "";
+    position: absolute;
+    top: -3px;
+    right: 0;
     display: inline-block;
-    *display: inline;
-    *zoom: 1;
-    margin: 0 auto;
-    padding: 0
-}
-
-.pagination li {
-    display: inline
-}
-
-.pagination a {
-    float: left;
-    padding: 0 18px;
-    line-height: 40px;
-    text-decoration: none;
-    border: 1px solid #dbdbdb;
-    border-left-width: 0;
-    background: #fff
-}
-
-.pagination a:hover {
-    background-color: #1d184a;
-    color: #fff
-}
-
-.pagination .active a {
-    background-color: #f7f7f7;
-    color: #999;
-    cursor: default
-}
-
-.pagination .disabled span {
-    color: #999;
-    background-color: transparent;
-    cursor: default
-}
-
-.pagination .disabled a {
-    color: #999;
-    background-color: transparent;
-    cursor: default
-}
-
-.pagination .disabled a:hover {
-    color: #999;
-    background-color: transparent;
-    cursor: default
-}
-
-.pagination li:first-child a {
-    border-left-width: 1px
-}
-
-.mt-6, .my-6 {
-    margin-top: 3.5rem;
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
 
 </style>
 
-<div class="container">
-                <div class="row mt-n5">
-                    <div class="col-md-6 col-lg-4 mt-5 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                        <div class="blog-grid">
-                            <div class="blog-grid-img position-relative"><img alt="img" src="https://www.bootdey.com/image/480x480/00FFFF/000000"></div>
-                            <div class="blog-grid-text p-4">
-                                <h3 class="h5 mb-3"><a href="#!">Business tool for your customer</a></h3>
-                                <p class="display-30">Exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                                <div class="meta meta-style2">
-                                    <ul>
-                                        <li><a href="#!"><i class="fas fa-calendar-alt"></i> 10 Jul, <script>document.write(new Date().getFullYear())</script>2022</a></li>
-                                        <li><a href="#!"><i class="fas fa-user"></i> User</a></li>
-                                        <li><a href="#!"><i class="fas fa-comments"></i> 38</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-5 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                        <div class="blog-grid">
-                            <div class="blog-grid-img position-relative"><img alt="img" src="https://www.bootdey.com/image/480x480/00FFFF/000000"></div>
-                            <div class="blog-grid-text p-4">
-                                <h3 class="h5 mb-3"><a href="#!">Growth your business strategy</a></h3>
-                                <p class="display-30">Exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                                <div class="meta meta-style2">
-                                    <ul>
-                                        <li><a href="#!"><i class="fas fa-calendar-alt"></i> 25 Jun, <script>document.write(new Date().getFullYear())</script>2022</a></li>
-                                        <li><a href="#!"><i class="fas fa-user"></i> User</a></li>
-                                        <li><a href="#!"><i class="fas fa-comments"></i> 68</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-5 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                        <div class="blog-grid">
-                            <div class="blog-grid-img position-relative"><img alt="img" src="https://www.bootdey.com/image/480x480/00FFFF/000000"></div>
-                            <div class="blog-grid-text p-4">
-                                <h3 class="h5 mb-3"><a href="#!">Business people success master plan</a></h3>
-                                <p class="display-30">Exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                                <div class="meta meta-style2">
-                                    <ul>
-                                        <li><a href="#!"><i class="fas fa-calendar-alt"></i> 16 May, <script>document.write(new Date().getFullYear())</script>2022</a></li>
-                                        <li><a href="#!"><i class="fas fa-user"></i> User</a></li>
-                                        <li><a href="#!"><i class="fas fa-comments"></i> 58</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-5 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-                        <div class="blog-grid">
-                            <div class="blog-grid-img position-relative"><img alt="img" src="https://www.bootdey.com/image/480x480/00FFFF/000000"></div>
-                            <div class="blog-grid-text p-4">
-                                <h3 class="h5 mb-3"><a href="#!">Results professional report</a></h3>
-                                <p class="display-30">Exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                                <div class="meta meta-style2">
-                                    <ul>
-                                        <li><a href="#!"><i class="fas fa-calendar-alt"></i> 02 Apr, <script>document.write(new Date().getFullYear())</script>2022</a></li>
-                                        <li><a href="#!"><i class="fas fa-user"></i> User</a></li>
-                                        <li><a href="#!"><i class="fas fa-comments"></i> 38</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-5 wow fadeInUp" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">
-                        <div class="blog-grid">
-                            <div class="blog-grid-img position-relative"><img alt="img" src="https://www.bootdey.com/image/480x480/00FFFF/000000"></div>
-                            <div class="blog-grid-text p-4">
-                                <h3 class="h5 mb-3"><a href="#!">Business strategy concept</a></h3>
-                                <p class="display-30">Exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                                <div class="meta meta-style2">
-                                    <ul>
-                                        <li><a href="#!"><i class="fas fa-calendar-alt"></i> 25 Mar, <script>document.write(new Date().getFullYear())</script>2022</a></li>
-                                        <li><a href="#!"><i class="fas fa-user"></i> User</a></li>
-                                        <li><a href="#!"><i class="fas fa-comments"></i> 68</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mt-5 wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">
-                        <div class="blog-grid">
-                            <div class="blog-grid-img position-relative"><img alt="img" src="https://www.bootdey.com/image/480x480/00FFFF/000000"></div>
-                            <div class="blog-grid-text p-4">
-                                <h3 class="h5 mb-3"><a href="#!">Business people meeting</a></h3>
-                                <p class="display-30">Exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
-                                <div class="meta meta-style2">
-                                    <ul>
-                                        <li><a href="#!"><i class="fas fa-calendar-alt"></i> 10 Feb, <script>document.write(new Date().getFullYear())</script>2022</a></li>
-                                        <li><a href="#!"><i class="fas fa-user"></i> User</a></li>
-                                        <li><a href="#!"><i class="fas fa-comments"></i> 58</a></li>
-                                    </ul>
-                                </div>
-                            </div>
+<section class="section gray-bg" id="blog">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-7 text-center">
+                        <div class="section-title">
+                            <h2>Latest News</h2>
+                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites</p>
                         </div>
                     </div>
                 </div>
-                <div class="row mt-6 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                    <div class="col-12">
-                        <div class="pagination text-small text-uppercase text-extra-dark-gray">
-                            <ul>
-                                <li><a href="#!"><i class="fas fa-long-arrow-alt-left me-1 d-none d-sm-inline-block"></i> Prev</a></li>
-                                <li class="active"><a href="#!">1</a></li>
-                                <li><a href="#!">2</a></li>
-                                <li><a href="#!">3</a></li>
-                                <li><a href="#!">Next <i class="fas fa-long-arrow-alt-right ms-1 d-none d-sm-inline-block"></i></a></li>
-                            </ul>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="blog-grid">
+                            <div class="blog-img">
+                                <div class="date">04 FEB</div>
+                                <a href="#">
+                                    <img src="https://www.bootdey.com/image/350x280/FFB6C1/000000" title="" alt="">
+                                </a>
+                            </div>
+                            <div class="blog-info">
+                                <h5><a href="#">Prevent 75% of visitors from google analytics</a></h5>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <div class="btn-bar">
+                                    <a href="#" class="px-btn-arrow">
+                                        <span>Read More</span>
+                                        <i class="arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="blog-grid">
+                            <div class="blog-img">
+                                <div class="date">04 FEB</div>
+                                <a href="#">
+                                    <img src="https://www.bootdey.com/image/350x280/87CEFA/000000" title="" alt="">
+                                </a>
+                            </div>
+                            <div class="blog-info">
+                                <h5><a href="#">Prevent 75% of visitors from google analytics</a></h5>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <div class="btn-bar">
+                                    <a href="#" class="px-btn-arrow">
+                                        <span>Read More</span>
+                                        <i class="arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="blog-grid">
+                            <div class="blog-img">
+                                <div class="date">04 FEB</div>
+                                <a href="#">
+                                    <img src="https://www.bootdey.com/image/350x280/FF7F50/000000" title="" alt="">
+                                </a>
+                            </div>
+                            <div class="blog-info">
+                                <h5><a href="#">Prevent 75% of visitors from google analytics</a></h5>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <div class="btn-bar">
+                                    <a href="#" class="px-btn-arrow">
+                                        <span>Read More</span>
+                                        <i class="arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </section>
