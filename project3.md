@@ -24,6 +24,9 @@ header-img: "img/gradient3.png"
     </div>
   </div>
 
+
+<br>
+
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2">Print 2</button>
     <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="modal2Label" aria-hidden="true">
@@ -35,6 +38,8 @@ header-img: "img/gradient3.png"
     </div>
   </div>
 
+<br>
+
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal3">Print 3</button>
     <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="modal3Label" aria-hidden="true">
@@ -45,6 +50,8 @@ header-img: "img/gradient3.png"
       </div>
     </div>
   </div>
+
+<br>
 
   <div class="col-md-3">
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal4">Print 4</button>
