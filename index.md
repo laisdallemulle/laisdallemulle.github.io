@@ -12,7 +12,8 @@ header-img: "img/capahome.jpg"
         </div>
         <div class="col-md-9">
             <a href="https://www.linkedin.com/in/laisdallemulle" target="_blank"><h4>Laís Dalle Mulle</h4></a>
-        <p>Hello, I'm <b>Lais Dalle Mulle</b>, an Energy Engineer with expertise in renewable energy generation and sustainability. I have a Master's degree in Electrical Engineering and experience in photovoltaic system design and analysis. I'm passionate about contributing to the growth of companies through the application of my skills and knowledge.</p>
+        <p>Hello, I'm <b>Lais Dalle Mulle</b>, an Energy Engineer with expertise in renewable energy generation and sustainability. I have a Master's degree in Electrical Engineering and experience in photovoltaic system design and analysis. I'm passionate about contributing to the growth of companies through the application of my skills and knowledge. You can browse my website and find my complete CV, some of my electrical engineering projects and also how to contact me.</p>
+        
         </div>
     </div>
 </div>
