@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Project 4"
-description: "-"
-header-img: "img/gradient.png"
+title: "🛒 Supermarket Hippo"
+description: "Project 4"
+header-img: "img/gradient3.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)

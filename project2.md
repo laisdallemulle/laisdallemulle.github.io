@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Supermarket Silveira"
+title: "🛒 Supermarket Silveira"
 description: "Project 2"
 header-img: "img/gradient3.png"
 ---
