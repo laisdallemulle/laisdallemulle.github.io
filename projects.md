@@ -32,7 +32,7 @@ In this selection, I would like to showcase a range of photovoltaic projects dev
 
 
 
-<h2>Click on the project for specifications</h2>
+<h3>Click on the project for specifications</h3>
 ---
 
 <a href="https://laisdallemulle.github.io/project1/" target="_blank">Clothes Factory →</a>
