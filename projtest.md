@@ -125,7 +125,7 @@ body{margin-top:20px;}
                             <div class="blog-img">
                                 <div class="date">04 FEB</div>
                                 <a href="#">
-                                    <img src="https://www.bootdey.com/image/350x280/FFB6C1/000000" title="" alt="">
+                                    <img src="https://laisdallemulle.github.io/img/agri.png" title="" alt="">
                                 </a>
                             </div>
                             <div class="blog-info">
@@ -145,7 +145,7 @@ body{margin-top:20px;}
                             <div class="blog-img">
                                 <div class="date">04 FEB</div>
                                 <a href="#">
-                                    <img src="https://www.bootdey.com/image/350x280/87CEFA/000000" title="" alt="">
+                                    <img src="https://laisdallemulle.github.io/img/hosp.png" title="" alt="">
                                 </a>
                             </div>
                             <div class="blog-info">
@@ -165,7 +165,7 @@ body{margin-top:20px;}
                             <div class="blog-img">
                                 <div class="date">04 FEB</div>
                                 <a href="#">
-                                    <img src="https://www.bootdey.com/image/350x280/FF7F50/000000" title="" alt="">
+                                    <img src="https://laisdallemulle.github.io/img/ice.png" title="" alt="">
                                 </a>
                             </div>
                             <div class="blog-info">
