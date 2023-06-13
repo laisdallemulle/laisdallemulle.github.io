@@ -15,7 +15,7 @@ header-img: "img/gradient3.png"
     <div class="row">
       <div class="col-md-8">
         <div class="embed-responsive embed-responsive-16by9">
-            <img src="./img/projetoIcecream1.png" alt="Minha Figura">
+            <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" alt="Minha Figura">
         </div>
       </div>
     </div>
