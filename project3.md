@@ -11,24 +11,22 @@ header-img: "img/gradient3.png"
 ---
 
 
-<div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        <div class="embed-responsive embed-responsive-16by9">
-            <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" alt="Minha Figura">
-        </div>
-      </div>
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Large modal</button>
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" alt="Minha Figura">
     </div>
+  </div>
 </div>
+
 
 ---
 
 
-![plot 2](./img/projetoIcecream2.png)
 
-![plot 3](./img/projetoIcecream3.png)
-
-![plot 4](./img/projetoIcecream4.png)
 
 
 <h2>Specifications</h2>
