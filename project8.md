@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "🦷 Dental Clinic"
-description: "Project 8"
+description: "Electrical Project 8"
 header-img: "img/gradient3.png"
 ---
 
 [← Back to all projects](https://laisdallemulle.github.io/projects/)
 
-<h2>Project 8</h2>
+<h2>Electrical Project 8</h2>
 ---
 
 
