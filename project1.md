@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Clothes Factory"
+title: "👚 Clothes Factory"
 description: "Project 1"
 header-img: "img/gradient3.png"
 ---
