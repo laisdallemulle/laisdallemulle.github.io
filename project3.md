@@ -10,24 +10,7 @@ header-img: "img/gradient3.png"
 <h2>Project 3</h2>
 ---
 
-<style>
-  .modal-dialog {
-    max-width: 90%;
-    margin: 1.75rem auto;
-  }
 
-  .modal-content {
-    width: 100%;
-    height: auto;
-    max-height: 80vh;
-  }
-
-  .modal-body img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-  }
-</style>
 
 <div class="row">
   <div class="col-md-3">
@@ -35,7 +18,7 @@ header-img: "img/gradient3.png"
     <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="modal1Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
-          <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" class="img-fluid" alt="Modal 1 Image">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream1.png" class="img-responsive" alt="Modal 1 Image">
         </div>
       </div>
     </div>
@@ -46,7 +29,7 @@ header-img: "img/gradient3.png"
     <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="modal2Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
-          <img src="https://laisdallemulle.github.io/img/projetoIcecream2.png" class="img-fluid" alt="Modal 2 Image">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream2.png" class="img-responsive" alt="Modal 2 Image">
         </div>
       </div>
     </div>
@@ -57,7 +40,7 @@ header-img: "img/gradient3.png"
     <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="modal3Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
-          <img src="https://laisdallemulle.github.io/img/projetoIcecream3.png" class="img-fluid" alt="Modal 3 Image">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream3.png" class="img-responsive" alt="Modal 3 Image">
         </div>
       </div>
     </div>
@@ -68,7 +51,7 @@ header-img: "img/gradient3.png"
     <div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="modal4Label" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
-          <img src="https://laisdallemulle.github.io/img/projetoIcecream4.png" class="img-fluid" alt="Modal 4 Image">
+          <img src="https://laisdallemulle.github.io/img/projetoIcecream4.png" class="img-responsive" alt="Modal 4 Image">
         </div>
       </div>
     </div>
