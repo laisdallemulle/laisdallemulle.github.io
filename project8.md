@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "🦷 Dental Clinic"
-description: "Project 5"
+description: "Project 8"
 header-img: "img/gradient3.png"
 ---
 
