@@ -29,6 +29,10 @@ In this selection, I would like to showcase a range of photovoltaic projects dev
 </details>
 
 *Please keep in mind that this selection is just a sample of the projects I have completed during this period.*
+
+
+
+<h2>Click on the project for specifications</h2>
 ---
 
 <a href="https://laisdallemulle.github.io/project1/" target="_blank">Clothes Factory →</a>
