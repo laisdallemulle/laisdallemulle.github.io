@@ -12,7 +12,7 @@ header-img: "img/capaextra.jpg"
 
 In this selection, I would like to showcase a range of photovoltaic projects developed between 2020 and 2023. These projects represent a diverse sample of various applications and sectors, including residential, commercial buildings, and rural areas. Each project was carefully planned and designed in accordance with established standards and best practices, ensuring efficiency and reliability.
 
-<details>
+<details style="cursor:pointer">
 <summary> ▶ All the PV projects were based on the following standards:</summary>
 <br> 
 

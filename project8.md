@@ -71,7 +71,7 @@ header-img: "img/gradient3.png"
 ---
 The project deals with a two-story building, located at Av. Joca brandão, 715, downtown, Itajaí-SC. The building will have as possible use, medical offices, commercial office and/or dental offices. In this way, the electrical project was dimensioned in order to meet the needs for all types of uses.
 
-<details>
+<details style="cursor:pointer">
 <summary> ▶ The project was based on the following standards:</summary>
 <br>
 <ul>
@@ -84,7 +84,7 @@ The project deals with a two-story building, located at Av. Joca brandão, 715, 
 
 
 
-<details>
+<details style="cursor:pointer">
 <summary> ▶ Ground floor:</summary>
 <br> 
 
@@ -136,7 +136,7 @@ The project deals with a two-story building, located at Av. Joca brandão, 715, 
 
 
 
-<details>
+<details style="cursor:pointer">
 <summary> ▶ Second floor:</summary>
 <br> 
 <ul>
