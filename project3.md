@@ -10,7 +10,19 @@ header-img: "img/gradient3.png"
 <h2>Project 3</h2>
 ---
 
-![plot 1](./img/projetoIcecream1.png)
+
+<div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="embed-responsive embed-responsive-16by9">
+            <img src="./img/projetoIcecream1.png" alt="Minha Figura">
+        </div>
+      </div>
+    </div>
+</div>
+
+---
+
 
 ![plot 2](./img/projetoIcecream2.png)
 
