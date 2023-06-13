@@ -10,7 +10,24 @@ header-img: "img/gradient3.png"
 <h2>Project 3</h2>
 ---
 
+<style>
+  .modal-dialog {
+    max-width: 90%;
+    margin: 1.75rem auto;
+  }
 
+  .modal-content {
+    width: 100%;
+    height: auto;
+    max-height: 80vh;
+  }
+
+  .modal-body img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+</style>
 
 <div class="row">
   <div class="col-md-3">
