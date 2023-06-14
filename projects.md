@@ -35,21 +35,21 @@ In this selection, I would like to showcase a range of photovoltaic projects dev
 <h3>Click on the project for specifications</h3>
 ---
 
-<a href="https://laisdallemulle.github.io/project1/" target="_blank">Clothes Factory →</a>
+<a href="https://laisdallemulle.github.io/project1/">Clothes Factory →</a>
 
-<a href="https://laisdallemulle.github.io/project2/" target="_blank">Supermarket Silveira →</a>
+<a href="https://laisdallemulle.github.io/project2/">Supermarket Silveira →</a>
 
-<a href="https://laisdallemulle.github.io/project3/" target="_blank">Icecream factory →</a>
+<a href="https://laisdallemulle.github.io/project3/">Icecream factory →</a>
 
-<a href="https://laisdallemulle.github.io/project4/" target="_blank">Supermarket Hippo →</a>
+<a href="https://laisdallemulle.github.io/project4/">Supermarket Hippo →</a>
 
-<a href="https://laisdallemulle.github.io/project5/" target="_blank">Agribusiness →</a>
+<a href="https://laisdallemulle.github.io/project5/">Agribusiness →</a>
 
-<a href="https://laisdallemulle.github.io/project6/" target="_blank">Supermarket Master Matriz →</a>
+<a href="https://laisdallemulle.github.io/project6/">Supermarket Master Matriz →</a>
 
-<a href="https://laisdallemulle.github.io/project7/" target="_blank">Hospital IDEAS →</a>
+<a href="https://laisdallemulle.github.io/project7/">Hospital IDEAS →</a>
 
-<a href="https://laisdallemulle.github.io/project8/" target="_blank">Dental Clinic →</a>
+<a href="https://laisdallemulle.github.io/project8/">Dental Clinic →</a>
 
 
 
