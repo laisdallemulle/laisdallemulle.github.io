@@ -36,7 +36,7 @@ Project Management and Agile Methodologies
 Energy Engineering - Engineering focused on renewable energy generation and sustainability. Its menu includes subjects common to electrical engineering such as circuits, transmission, power electronics, among others.
 
 
-### [PV PROJECTS](https://laisdallemulle.notion.site/Projects-14f8be1e5df0401cb4275c6b41a90ed9)
+### [PV PROJECTS](https://laisdallemulle.github.io/projects/)
 ---
 Click on the project you want to view in full:
 - [Dana Jalecos (clothes factory) – 54,45kWp (99 modules of 550Wp)](https://laisdallemulle.github.io/project1/);
