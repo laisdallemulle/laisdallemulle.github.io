@@ -96,9 +96,8 @@ Click on the project you want to view in full:
 #### Extension Schoolarship | Federal University of Santa Catarina, UFSC, Brazil
 `2016 – 2017`
 
-- Taught electrical, electronic, and computer classes to students from public schools;
-
 ##### ACTIVITIES
+- Taught electrical, electronic, and computer classes to students from public schools;
 - Dimensioning and design of electrical and photovoltaic systems;
 - Performance analysis of photovoltaic systems;
 - Scientific initiation scholarship of CNPq;
