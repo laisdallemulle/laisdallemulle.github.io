@@ -102,7 +102,6 @@ Click on the project you want to view in full:
 - Performance analysis of photovoltaic systems;
 - Scientific initiation scholarship of CNPq;
 - Member of the Laboratory of Computational Technologies (LabTeC), through the extension project "Meninas Digitais UFSC";
-- Taught electrical, electronic, and computer classes to students from public schools;
 - Member of the Technological Nucleus of Electrical Energy (NTEEL).
 
 
