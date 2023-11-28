@@ -51,7 +51,18 @@ Click on the project you want to view in full:
 
 ### EXPERIENCE
 ---
-#### Technical Analyst of Photovoltaic Systems | Pieta.tech
+#### Energy Engineer | RRC Companies (EUA)
+`2023-current`
+
+- Business dealings with customers;
+- Conducting Ampacity, Loss, and PVsyst Studies ;
+- Review of Large Electrical Projects;
+- Large PV Project Electrical;
+- Large-Scale PV Project Layout Verification;
+- Major PV Project Design Oversight;
+- Large PV Project 3D Models Review.
+  
+#### Technical Analyst of Photovoltaic Systems | Pieta.tech (BR)
 `2022-2023`
 
 - Technical analysis of PV equipment; 
@@ -61,7 +72,7 @@ Click on the project you want to view in full:
 - Dealings with customers to explain technical issues for adjustments to input standard equipment or circuit breakers.
 
 
-#### Energy Engineer | Belver Engenharia
+#### Energy Engineer | Belver Engenharia (BR)
 `2020-2023`
 
 - Business dealings with customers;
@@ -78,7 +89,7 @@ Click on the project you want to view in full:
 
 
 
-#### Photovoltaic Systems Designer | Prisma Energia Solar e Eficiência Energética
+#### Photovoltaic Systems Designer | Prisma Energia Solar e Eficiência Energética (BR)
 `2019-2020`
 
 - Business dealings with customers;
@@ -93,7 +104,7 @@ Click on the project you want to view in full:
 - Installation team management.
 
 
-#### Extension Schoolarship | Federal University of Santa Catarina, UFSC, Brazil
+#### Extension Schoolarship | Federal University of Santa Catarina, UFSC, Brazil (BR)
 `2016 – 2017`
 
 ##### ACTIVITIES
