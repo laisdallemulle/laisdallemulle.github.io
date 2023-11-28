@@ -7,7 +7,7 @@ header-img: "img/capaextra.jpg"
 
 ### OBJECTIVE
 ---
-Job opportunity where I can develop my skills, contributing to the growth of the company.
+Seeking to engage in dynamic environments that foster continuous personal and professional development, where I can contribute significantly to challenging projects aligned with my values. Eager to embrace new challenges that enhance my skills and offer opportunities for creative problem-solving, while collaborating effectively to create a positive impact.
 
 ### EDUCATION
 ---
