@@ -13,7 +13,7 @@ Job opportunity where I can develop my skills, contributing to the growth of the
 ---
 
 #### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil 
-`2020 – Present`
+`2020 – 2023`
 
 PPGEEL – Graduate Program in Electrical Engineering
 
