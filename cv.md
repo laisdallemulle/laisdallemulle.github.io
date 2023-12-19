@@ -51,7 +51,7 @@ Click on the project you want to view in full:
 
 ### EXPERIENCE
 ---
-#### Energy Engineer | RRC Companies (EUA)
+#### Project Engineer | RRC Companies (EUA)
 `2023-current`
 
 - Business dealings with customers;
