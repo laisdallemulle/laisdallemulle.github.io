@@ -12,6 +12,14 @@ Seeking to engage in dynamic environments that foster continuous personal and pr
 ### EDUCATION
 ---
 
+#### Doctorate Degree | Federal University of Santa Catarina, UFSC, Brazil 
+`2024 – current`
+
+PPGEEL – Graduate Program in Electrical Engineering
+
+Doctorate degree in power systems.
+
+
 #### Master's Degree | Federal University of Santa Catarina, UFSC, Brazil 
 `2020 – 2023`
 
