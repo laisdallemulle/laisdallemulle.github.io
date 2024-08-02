@@ -7,7 +7,7 @@ header-img: "img/capaextra.jpg"
 
 
 
-<h2>My Projects</h2>
+<h2>My Projects (BR)</h2>
 ---
 
 In this selection, I would like to showcase a range of photovoltaic projects developed between 2020 and 2023. These projects represent a diverse sample of various applications and sectors, including residential, commercial buildings, and rural areas. Each project was carefully planned and designed in accordance with established standards and best practices, ensuring efficiency and reliability.
