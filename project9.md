@@ -12,7 +12,7 @@ header-img: "img/gradient3.png"
 <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <img src="https://github.com/laisdallemulle/laisdallemulle.github.io/blob/main/img/CS-Energy-1024x610.jpg" 
+        <img src="https://raw.githubusercontent.com/laisdallemulle/laisdallemulle.github.io/main/img/CS-Energy-1024x610.jpg" 
              alt="Illustrative Image of a Solar Project" 
              class="img-fluid">
         <p class="text-muted text-center mt-2">*This image is illustrative as the actual project cannot be disclosed due to contractual clauses.</p>
