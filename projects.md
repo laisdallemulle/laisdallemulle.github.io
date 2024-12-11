@@ -40,11 +40,11 @@ In this selection, I would like to showcase a range of photovoltaic projects dev
 <h3>Click on the project for specifications</h3>
 ---
 
-<a href="https://laisdallemulle.github.io/project9/">Large-Scale Solar Project in New York →</a>
+<a href="https://laisdallemulle.github.io/project9/">Large-Scale Solar Project →</a>
 
-<a href="https://laisdallemulle.github.io/project10/">Large-Scale Solar Project in Texas →</a>
+<a href="https://laisdallemulle.github.io/project10/">Large-Scale Solar Project →</a>
 
-<a href="https://laisdallemulle.github.io/project11/">Mega Solar Park in Arizona →</a>
+<a href="https://laisdallemulle.github.io/project11/">Mega Solar Park →</a>
 
 <a href="https://laisdallemulle.github.io/project1/">Clothes Factory →</a>
 
