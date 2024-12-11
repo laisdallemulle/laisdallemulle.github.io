@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🌞 Mega Solar Park in Arizona"
+title: "🌞 Mega Solar Park"
 description: "Utility-Scale Project 3"
 header-img: "img/gradient3.png"
 ---
@@ -31,7 +31,7 @@ Total Power: 20MWp
 
 **Technical Specifications - Large-Scale Photovoltaic Project**
 
-Located in Arizona, this mega solar park is designed to supply clean energy to an entire municipality. Below are the detailed specifications:
+This mega solar park is designed to supply clean energy to an entire municipality. Below are the detailed specifications:
 
 **Modules:**
 - Number of Modules: 40,000
@@ -44,24 +44,16 @@ Located in Arizona, this mega solar park is designed to supply clean energy to a
 **Total Power:**
 - Total Photovoltaic Power: 20MWp
 
-This solar park features sustainable land use strategies and cutting-edge photovoltaic technology to ensure maximum energy output. With a capacity of 20MWp, it plays a critical role in meeting Arizona's renewable energy targets.
+This solar park features sustainable land use strategies and cutting-edge photovoltaic technology to ensure maximum energy output. With a capacity of 20MWp, it plays a critical role in meeting renewable energy targets.
 
 <h2>Standards</h2>
 ---
 
 This project adheres to the following standards and regulations:
 1. **NEC (National Electrical Code):** Comprehensive safety requirements for electrical installations.
-2. **APS (Arizona Public Service) Grid Standards:** Interconnection and operational requirements specific to Arizona.
+2. **APS (Arizona Public Service) Grid Standards:** Interconnection and operational requirements specific to location.
 3. **UL 1703 and UL 1741 Standards:** Safety and performance standards for photovoltaic modules and inverters.
 4. **IEEE 1547 Standard:** Specifications for interconnection and interoperability with the grid.
 5. **IEC 62446:** Documentation and compliance verification procedures for PV systems.
 
-<h2>About the Region</h2>
 
-### Arizona - Solar Energy Leader
-
----
-
-Arizona, with its abundant sunshine and forward-thinking energy policies, is at the forefront of solar energy adoption. This project exemplifies Arizona's commitment to leveraging its natural resources for a sustainable energy future.
-
-The Mega Solar Park in Arizona showcases the potential of utility-scale solar energy to transform regional energy landscapes, reduce carbon emissions, and promote energy independence.
