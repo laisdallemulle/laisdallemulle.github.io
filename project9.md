@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🌞 Large-Scale Solar Project in New York"
+title: "🌞 Large-Scale Solar Project"
 description: "Utility-Scale Project 1"
 header-img: "img/gradient3.png"
 ---
@@ -31,7 +31,7 @@ Total Power: 10MWp
 
 **Technical Specifications - Large-Scale Photovoltaic Project**
 
-This utility-scale photovoltaic project was meticulously designed to meet the energy needs of thousands of homes in New York. Below are the detailed specifications:
+This utility-scale photovoltaic project was meticulously designed to meet the energy needs of thousands of homes. Below are the detailed specifications:
 
 **Modules:**
 - Number of Modules: 25,000
@@ -44,7 +44,7 @@ This utility-scale photovoltaic project was meticulously designed to meet the en
 **Total Power:**
 - Total Photovoltaic Power: 10MWp
 
-The project includes advanced tracking systems to maximize energy output and state-of-the-art inverters for efficient power conversion. With a total capacity of 10MWp, this solar farm is a major contributor to sustainable energy initiatives in New York, reducing carbon emissions and promoting clean energy.
+The project includes advanced tracking systems to maximize energy output and state-of-the-art inverters for efficient power conversion. With a total capacity of 10MWp, this solar farm is a major contributor to sustainable energy initiatives, reducing carbon emissions and promoting clean energy.
 
 <h2>Standards</h2>
 ---
@@ -56,12 +56,3 @@ This project adheres to the following standards and regulations:
 4. **IEEE 1547 Standard:** Interconnection and communication of distributed energy resources.
 5. **IEC 62446:** Documentation and compliance verification procedures for PV systems.
 
-<h2>About the Region</h2>
-
-### New York - Renewable Energy Goals
-
----
-
-New York has ambitious renewable energy goals, aiming to achieve 70% renewable energy by 2030. This project aligns with the state's commitment to reducing greenhouse gas emissions and transitioning to a cleaner, more sustainable energy future.
-
-The implementation of this utility-scale solar farm marks a significant milestone in New York's journey towards energy independence and environmental responsibility.
