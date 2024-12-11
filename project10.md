@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🌞 Utility Solar Farm in Texas"
+title: "🌞 Utility Solar Farm"
 description: "Utility-Scale Project 2"
 header-img: "img/gradient3.png"
 ---
@@ -31,7 +31,7 @@ Total Power: 13.5MWp
 
 **Technical Specifications - Large-Scale Photovoltaic Project**
 
-This utility-scale photovoltaic project is located in Texas, providing clean energy to an industrial zone. Below are the detailed specifications:
+This utility-scale photovoltaic project, providing clean energy to an industrial zone. Below are the detailed specifications:
 
 **Modules:**
 - Number of Modules: 30,000
@@ -44,7 +44,7 @@ This utility-scale photovoltaic project is located in Texas, providing clean ene
 **Total Power:**
 - Total Photovoltaic Power: 13.5MWp
 
-This project incorporates cutting-edge energy storage solutions to ensure grid stability, alongside advanced inverters for maximum power efficiency. The total capacity of 13.5MWp represents a significant contribution to renewable energy efforts in Texas.
+This project incorporates cutting-edge energy storage solutions to ensure grid stability, alongside advanced inverters for maximum power efficiency. The total capacity of 13.5MWp represents a significant contribution to renewable energy efforts.
 
 <h2>Standards</h2>
 ---
@@ -56,12 +56,3 @@ This project adheres to the following standards and regulations:
 4. **IEEE 1547 Standard:** Interconnection and communication of distributed energy resources.
 5. **IEC 62446:** Documentation and compliance verification procedures for PV systems.
 
-<h2>About the Region</h2>
-
-### Texas - A Leader in Renewable Energy
-
----
-
-Texas is a leader in renewable energy, with significant investments in solar and wind power. This utility-scale solar farm aligns with Texas's vision of diversifying its energy mix and reducing reliance on fossil fuels. 
-
-The implementation of this project showcases how renewable energy can power industrial zones while contributing to a more sustainable energy future.
